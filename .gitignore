@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE
+.spyder-py3/
+.vscode/
+.idea/
+
+# ISIC 2018 data (download separately)
+ISIC2018_Task1*/
+
+# Cityscapes data
+cityscapes/
+cityscapes0/
+datasets*/
+
+# Model weights and checkpoints (large)
+*.pth
+*.pt
+*.ckpt
+
+# Ultralytics run outputs
+runs/
+
+# Videos
+*.mp4
+*.avi
+
+# OS
+.DS_Store
+Thumbs.db
