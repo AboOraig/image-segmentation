@@ -133,7 +133,3 @@ python YOLO_image_reentrainer.py  # set the path to your cityscapes.yaml
 The K-Means scripts load an image whose filename is set near the top of each file (`test2.png`, `car.png`, ...). Put your own image next to the script or edit that line.
 
 Built on [Ultralytics YOLO](https://github.com/ultralytics/ultralytics), [Segment Anything](https://github.com/facebookresearch/segment-anything) and [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch).
-
-## License
-
-Add a `LICENSE` file (MIT is a common choice). Note that Ultralytics YOLO is AGPL-3.0, which may affect how you license derived code. The ISIC and Cityscapes datasets have their own terms of use.
