@@ -1,0 +1,26 @@
+ISIC 2018 Task 1
+STEP 2 - Zero-Shot SAM
+============================================================
+
+Device: cuda
+Processed samples: 1000
+
+SAM (oracle box)
+Mean IoU: 0.775394
+Std IoU: 0.137501
+Mean Dice: 0.865089
+Std Dice: 0.110940
+
+SAM (automatic Otsu box)
+Mean IoU: 0.479979
+Std IoU: 0.348666
+Mean Dice: 0.561653
+Std Dice: 0.373177
+
+Prompt difference
+Oracle - Automatic IoU: +0.295415
+Oracle - Automatic Dice: +0.303436
+
+Automatic fallback
+Count: 0
+Percentage: 0.0000%

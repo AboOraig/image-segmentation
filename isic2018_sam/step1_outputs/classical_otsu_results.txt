@@ -1,0 +1,16 @@
+ISIC 2018 Task 1
+Classical Otsu Baseline
+==================================================
+Test samples: 1000
+
+Mean IoU: 0.486586
+Std IoU: 0.351457
+Median IoU: 0.599406
+Min IoU: 0.000000
+Max IoU: 0.967922
+
+Mean Dice: 0.565993
+Std Dice: 0.378914
+Median Dice: 0.749535
+Min Dice: 0.000000
+Max Dice: 0.983700
