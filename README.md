@@ -7,7 +7,7 @@ Computer-vision pipelines in PyTorch and OpenCV, from classical clustering to YO
 
 Report (in `docs/`):
 
-- [`ISIC2018_SAM_report.pdf`](docs/ISIC2018_SAM_report.pdf) (English): the ISIC 2018 study.
+- [`ISIC2018_SAM_report.pdf`](docs/ISIC2018_SAM_report.pdf): the ISIC 2018 study.
 
 ## Repository structure
 
